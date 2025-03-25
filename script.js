@@ -1,4 +1,4 @@
-const apiKey = 'e7300abc7f50226c2316ffc6a7425d02'; // Tu API Key
+const apiKey = ''; // Tu API Key
 
 // Llama a la función fetchWeather para las tres ciudades al cargar la página
 window.onload = () => {
